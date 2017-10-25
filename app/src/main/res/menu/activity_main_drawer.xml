@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Cálculos">
+        <menu>
+            <item
+                android:id="@+id/nav_Gotejamento"
+                android:icon="@drawable/ic_action_name"
+                android:title="@string/gotejamento" />
+
+            <item
+                android:id="@+id/nav_DosePeso"
+                android:icon="@drawable/ic_peso"
+                android:title="@string/dose_por_peso" />
+
+            <item
+                android:id="@+id/nav_DoseSuperficie"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/dose_superficie" />
+
+            <item
+                android:id="@+id/nav_Corporal"
+                android:icon="@drawable/ic_superficie"
+                android:title="@string/superficie_corporal" />
+        </menu>
+    </item>
+
+</menu>

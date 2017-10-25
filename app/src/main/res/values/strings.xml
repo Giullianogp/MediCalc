@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora Médica</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gotejamento">Gotejamento</string>
+    <string name="superficie_corporal">Superfície Corporal</string>
+    <string name="dose_por_peso">Dose por Peso</string>
+    <string name="dose_superficie">Dose por Superfície</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
